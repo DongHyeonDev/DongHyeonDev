@@ -55,7 +55,7 @@
 <p align="center">
 <a href="mailto:contact@donghyeon.com"><img src="https://img.shields.io/badge/Mail-F06B66?style=flat-square&logo=mailgun&logoColor=ffffff"/></a>
 <a href="mailto:dhkim960206@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=ffffff"/></a>
-<a href="https://how-dev.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=FFFFFF"/></a>
+<a href="https://how-dev.tistory.com"><img src="https://img.shields.io/badge/Tistory-FF5A4A?style=flat-square&logo=tistory&logoColor=FFFFFF"/></a>
 </p>
 
 ---
@@ -63,15 +63,9 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-<a href="https://github.com/DongHyeonDev">
-  <img src="https://github-readme-stats.vercel.app/api?username=DongHyeonDev&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF" width=56%/>
-</a>
-<a href="https://github.com/DongHyeonDev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DongHyeonDev&layout=compact&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF" width=38%/>
-</a>
-<a href="https://github.com/DongHyeonDev">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DongHyeonDev&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=DongHyeonDev&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF" width=56%/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DongHyeonDev&layout=compact&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF" width=38%/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DongHyeonDev&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </div>
 
 <br>
