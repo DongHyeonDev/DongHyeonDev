@@ -78,8 +78,8 @@
     <h3 align="center">📊 GitHub Stats</h3>
 <div>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=DongHyeonDev&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF" width=56%/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DongHyeonDev&langs_count=10&layout=compact&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF" width=38%/>
+    <img src="https://github-readme-stats-kohl-eight-65.vercel.app/api?username=DongHyeonDev&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF" width=56%/>
+    <img src="https://github-readme-stats-kohl-eight-65.vercel.app/api/top-langs/?username=DongHyeonDev&langs_count=10&layout=compact&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF" width=38%/>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=DongHyeonDev&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </div>
 
